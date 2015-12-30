@@ -25,7 +25,7 @@ The steps needed to carry out this program are:
 
 4) In send_invitation.py  you must change REQUEST_URL with your service url. Must return a JSON object whit this model.
 	
-	[{"firstname”:”NAME”,”lastname”:”LAST_ANME”,”mail”:”MAIL”,”to_send":true}]
+	[{"firstname”:”NAME”,”lastname”:”LAST_NAME”,”mail”:”MAIL”,”to_send":true}]
 	
 	 You can use email.php as example or edit it. 
 
